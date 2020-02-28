@@ -1,0 +1,2 @@
+include ':app', ':sm_crypto'
+rootProject.name='sm_crypto_aar'
